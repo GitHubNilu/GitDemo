@@ -8,9 +8,10 @@ public class Substraction {
 		System.out.println("Substraction is :"+result);
 	}
 
-	private int subtract(int i, int j) {
+	private int subtract(int a, int b ) {
 		
-		return i-j;
+		return a-b;// change variable name
+		
 		
 	}
 
